@@ -1,0 +1,3 @@
+print('HAHAHAHAHAHAHAAHAHAHAH!')
+print('Ehhhhh (')
+print('HAHAHAHAHAHAHAAHAHAHAH!')
